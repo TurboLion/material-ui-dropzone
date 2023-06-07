@@ -326,7 +326,7 @@ DropzoneAreaBase.defaultProps = {
     acceptedFiles: [],
     filesLimit: 3,
     fileObjects: [],
-    maxFileSize: 3000000,
+    maxFileSize: 12582912,
     dropzoneText: 'Drag and drop a file here or click',
     previewText: 'Preview:',
     disableRejectionFeedback: false,
